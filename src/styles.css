@@ -1,0 +1,12 @@
+html, body {
+    margin:  0;
+    background-color: rgb(31, 145, 143); 
+}
+
+h1 {
+    color: white;
+}
+
+img {
+    width: 150px;
+}
